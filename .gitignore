@@ -1,0 +1,16 @@
+.idea/
+uptime.db
+up
+
+# Node.js dependencies
+node_modules/
+
+# Built frontend assets
+ui/static/
+
+bin/
+
+# Webpack and npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
